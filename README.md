@@ -16,7 +16,7 @@ At my College I used in my projects:
  + ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android) 
  + ![Python](https://img.shields.io/badge/-Python-61DAFB?logo=react) 
  + ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash) 
- + ![C](https://img.shields.io/badge/-C-#8B9CC?logo=c) 
+ + ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c) 
  + ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux) 
 
 My hobbyiest projects use mainly: 
