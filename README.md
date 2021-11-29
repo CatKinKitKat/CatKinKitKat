@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, friend! :man_beard::wave:
 
-<!--
-**CatKinKitKat/CatKinKitKat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Gonçalo Candeias Amaro, a :portugal: Portuguese Computer Science Student (not for long, I am graduating this year :trollface:). 
+If you want to know more about me, professionally speaking, check my [LinkedIn profile](https://www.linkedin.com/in/amaro374/).
 
-Here are some ideas to get you started:
+This :octocat: GitHub account has mostly :school: College projects, some :penguin: Linux configs (dotfiles) in private repos and a couple of :house_with_garden: hobbyistic projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+At my College I used in my projects: ![HTML](https://img.shields.io/badge/-ReactJs-61DAFB?logo=html) ![CSS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=css) ![JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=javascript) ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react) ![Java](https://img.shields.io/badge/-ReactJs-61DAFB?logo=java) ![Android](https://img.shields.io/badge/-ReactJs-61DAFB?logo=android) ![Python](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react) ![Bash](https://img.shields.io/badge/-ReactJs-61DAFB?logo=bash) ![C](https://img.shields.io/badge/-ReactJs-61DAFB?logo=c) ![Linux](https://img.shields.io/badge/-ReactJs-61DAFB?logo=linux)
+My hobbyiest projects use mainly: ![HTML](https://img.shields.io/badge/-ReactJs-61DAFB?logo=html) ![CSS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=css) ![JS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=javascript) ![ReactJS](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react)
+
+![GitHub followers](https://img.shields.io/github/followers/CatKinKitKat?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/CatKinKitKat?style=social)
+
+Hope you like code, because that's all you're gonna find here.
