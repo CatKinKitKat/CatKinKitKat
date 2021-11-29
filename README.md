@@ -1,4 +1,4 @@
-### Hi there, friend! :man_beard::wave:
+### Hi there, friend! :adult::wave:
 
 My name is Gonçalo Candeias Amaro, a :portugal: Portuguese Computer Science Student (not for long, I am graduating this year :trollface:). 
 If you want to know more about me, professionally speaking, check my [LinkedIn profile](https://www.linkedin.com/in/amaro374/).
