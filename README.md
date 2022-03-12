@@ -9,12 +9,7 @@ This :octocat: GitHub account has mostly :school: College projects, some :pengui
 
 At my College I used in my projects: 
 
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react) ![Java](https://img.shields.io/badge/-Java-007396?logo=java) ![Android](https://img.shields.io/badge/-Android-3DDC84?logo=android) ![Python](https://img.shields.io/badge/-Python-61DAFB?logo=react) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?logo=gnubash) ![C](https://img.shields.io/badge/-C-A8B9CC?logo=c) ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux) 
-
-
-My hobbyiest projects use mainly: 
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript) ![ReactJS](https://img.shields.io/badge/-React-61DAFB?logo=react)
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5) ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3) ![JS](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript) ![ReactJS](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react) ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java) ![Android](https://img.shields.io/badge/-Android-3DDC84?style=for-the-badge&logo=android) ![Python](https://img.shields.io/badge/-Python-61DAFB?style=for-the-badge&logo=react) ![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=for-the-badge&logo=gnubash) ![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c) ![C#](https://img.shields.io/badge/-C%23-6E009F?style=for-the-badge&logo=csharp) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux) 
 
 ---
 
