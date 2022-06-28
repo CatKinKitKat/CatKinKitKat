@@ -1,7 +1,6 @@
 == Hi there, friend! :wave::adult:
 
-My name is Gonçalo Candeias Amaro, a :portugal: Portuguese Computer
-Science Student (not for long, I am graduating this year :trollface:).
+My name is Gonçalo Candeias Amaro, a Junior :trollface: Software Engineer.
 If you want to know more about me, professionally speaking, check my
 https://www.linkedin.com/in/amaro374/[LinkedIn profile].
 
