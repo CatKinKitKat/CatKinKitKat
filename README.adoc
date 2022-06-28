@@ -2,7 +2,7 @@
 
 My name is Gonçalo Candeias Amaro, a Junior :trollface: Software Engineer.
 If you want to know more about me, professionally speaking, check my
-https://www.linkedin.com/in/amaro374/[LinkedIn profile].
+https://www.linkedin.com/in/amaro374/[LinkedIn profile] or my https://amaro.onthewifi.com/[website].
 
 This :octocat: GitHub account has mostly :school: College projects, some
 :penguin: Linux configs (dotfiles) in private repos and a couple of
