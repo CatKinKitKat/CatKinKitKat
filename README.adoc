@@ -24,6 +24,11 @@ image:https://img.shields.io/badge/-C-7d8b99?style=for-the-badge&logo=c[C]
 image:https://img.shields.io/badge/-C%23-512bd4?style=for-the-badge&logo=csharp[C#]
 image:https://img.shields.io/badge/-Linux-c99f1c?style=for-the-badge&logo=linux[Linux]
 
+And at work I mainly use:
+
+image:https://img.shields.io/badge/-Java-d41922?style=for-the-badge&logo=java[Java]
+image:https://img.shields.io/badge/-Linux-c99f1c?style=for-the-badge&logo=linux[Linux]
+
 '''''
 
 image:https://img.shields.io/github/followers/CatKinKitKat?style=social[GitHub followers]
